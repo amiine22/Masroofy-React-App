@@ -1,5 +1,5 @@
 {
-  "homepage": "https://amiine22.github.io/Masroofy-React-App.git",
+  "homepage": "https://amiine22.github.io/masroofy.git",
   "name": "masroofy",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
